@@ -1,0 +1,49 @@
+[BEGIN]
+  ObjTp=FSgntr
+  Sgntr=ArchiveManifest
+  RelVrs=4.09.04
+  IsProgram=1
+  TopLevelProgram=TOD Magic8Ball-v01.smw
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=TOD Magic8Ball-v01.smw
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=TOD Magic8Ball-v01.sig
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=TOD Magic8Ball-v01.lpz
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=TOD Magic8Ball-v01.smft
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=TOD Magic8Ball-v01.lpz.hash
+  Scope=1
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=TOD Magic8Ball-v01.ush
+  Scope=2
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=TOD Magic8Ball-v01.pdf
+  Scope=2
+  Module=TOD Magic8Ball-v01.ush
+[END]
+[BEGIN]
+  ObjTp=ArchiveItem
+  File=Magic8Ball.clz
+  Scope=2
+  Module=TOD Magic8Ball-v01.ush
+[END]
